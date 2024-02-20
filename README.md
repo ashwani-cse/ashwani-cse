@@ -1,6 +1,6 @@
 # Ashwani Kumar - Cloud Native Software Developer
 
-Greetings! I'm Ashwani Kumar, a seasoned Cloud Native Software Developer with 8+ years of hands-on experience in crafting robust and scalable solutions. My expertise lies in the realms of cloud computing, data structures and algorithms, microservices architecture, and tools like Google Cloud, Terraform, and Kubernetes.
+Greetings! I'm Ashwani Kumar, a seasoned Cloud Native Software Developer with 8.5+ years of hands-on experience in crafting robust and scalable solutions. My expertise lies in the realms of cloud computing, data structures and algorithms, microservices architecture, and tools like Google Cloud, Terraform, and Kubernetes.
 
 ## 🚀 Experience
 
@@ -9,8 +9,8 @@ I have a strong foundation in cloud-native software development, having worked o
 ## 💼 Technical Proficiency
 
 ### Cloud Platforms
-- Google Cloud Platform (GCP)
-- AWS (EC2)
+- Google Cloud Platform (GCP), GKE, IAM, Anthos, Cloud function etc.
+- AWS (EC2), EBS, IAM, EKS
 
 ### Tools & Technologies
 - Spring & SpringBoot
@@ -21,7 +21,7 @@ I have a strong foundation in cloud-native software development, having worked o
 - CI/CD pipelines
 
 ### Programming Languages
-- Python
+- Groovy scripting
 - Java with Reactive programming
 - C & C++
 
